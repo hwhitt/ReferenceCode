@@ -4,7 +4,10 @@
 
 Here we will cover *data science*, **data visualization**, **_general python_*, and only a ~~little~~ lot more.   
 
-
+- [x] Data Vis
+- [ ] General Python
+- [x] Markdown
+- [ ] Classifiers
 
 
 
