@@ -10,7 +10,8 @@ Here we will cover *data science*, **data visualization**, **_general python_*, 
 - [ ] Classifiers
 
 ### O'Reilley    
-I can get access through Umich -> Chrome extension -> epub to pdf    
+I can get access through Umich -> Chrome extension -> epub to pdf      
+Remember to filter for two years ago or sooner     
 Example:  
 - Matplotlib: https://www.oreilly.com/library-access/?next=/library/view/title/9781789135718/ 
 
