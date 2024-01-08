@@ -9,6 +9,11 @@ Here we will cover *data science*, **data visualization**, **_general python_*, 
 - [x] Markdown
 - [ ] Classifiers
 
+### O'Reilley    
+I can get access through Umich
+Chrome extension
+epub to pdf 
+
 
 
 
