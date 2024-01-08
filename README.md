@@ -11,6 +11,8 @@ Here we will cover *data science*, **data visualization**, **_general python_*, 
 
 ### O'Reilley    
 I can get access through Umich -> Chrome extension -> epub to pdf    
+Example:  
+- Matplotlib: https://www.oreilly.com/library-access/?next=/library/view/title/9781789135718/ 
 
 
 
